@@ -6,6 +6,6 @@ Using the *Cloud Natural Language API* from the Google Cloud Platform, messages 
 ***
 The intent of this platform is to foster positive customer support and service communcation, increase customer retentation rates through improved service, and gain insight into the sentiments behind communcation.
 
-## -Annie Wong, Wyatt Walsh 
+#### -Annie Wong, Wyatt Walsh 
 
 
