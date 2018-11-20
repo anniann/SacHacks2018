@@ -1,0 +1,1 @@
+1) follow flask tutroial \n 2) login for admin \n 3)guest input \n 

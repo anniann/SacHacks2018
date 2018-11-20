@@ -33,7 +33,7 @@ def run_quickstart():
     # [END language_python_migration_client]
 
     # The text to analyze
-    text = 'Hello, world!'
+    text = "Omg no"
     document = types.Document(
         content=text,
         type=enums.Document.Type.PLAIN_TEXT)
