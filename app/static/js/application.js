@@ -35,5 +35,3 @@ $("#input-form").on("submit", function(event) {
   outbox.send(JSON.stringify({ handle: handle, text: text }));
   $("#input-text")[0].value = "";
 });
-
-server.listen(process.env.PORT || port)
